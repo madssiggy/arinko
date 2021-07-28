@@ -1,0 +1,9 @@
+﻿C:\Users\user\Documents\Prociejial\HG41_04_Field_Base\HG41_04_Field_Base\shaderNoise.hlsl(15,21-24): warning X3081: comma expression used where a vector constructor may have been intended
+C:\Users\user\Documents\Prociejial\HG41_04_Field_Base\HG41_04_Field_Base\shaderSkyPS.hlsl(57,16-67): warning X3206: 'fbm2': implicit truncation of vector type
+C:\Users\user\Documents\Prociejial\HG41_04_Field_Base\HG41_04_Field_Base\shaderSkyPS.hlsl(67,9-46): warning X3206: implicit truncation of vector type
+  
+  compilation object save succeeded; see C:\Users\user\Documents\Prociejial\HG41_04_Field_Base\HG41_04_Field_Base\shaderSkyPS.cso
+C:\Users\user\Documents\Prociejial\HG41_04_Field_Base\HG41_04_Field_Base\shaderNoise.hlsl(15,21-24): warning X3081: comma expression used where a vector constructor may have been intended
+  
+  compilation object save succeeded; see C:\Users\user\Documents\Prociejial\HG41_04_Field_Base\HG41_04_Field_Base\shaderWaterPS.cso
+  DX11_Game.vcxproj -> C:\Users\user\Documents\Prociejial\HG41_04_Field_Base\HG41_04_Field_Base\Debug\DX11_Game.exe
